@@ -1,3 +1,27 @@
 {
-  "__version__": "1.0.1"
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "fish"
+      },
+      {
+        "index": 2,
+        "name": "bullet"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 4,
+      "2": 2
+    }
+  }
 }

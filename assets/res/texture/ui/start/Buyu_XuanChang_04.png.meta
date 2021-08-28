@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3909b42b-de5e-4294-b0d9-1becf0b57a83",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Buyu_XuanChang_04": {
+      "ver": "1.0.4",
+      "uuid": "98b03dc9-0701-4116-afa6-e55e8b5e8504",
+      "rawTextureUuid": "3909b42b-de5e-4294-b0d9-1becf0b57a83",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1486,
+      "height": 513,
+      "rawWidth": 1490,
+      "rawHeight": 517,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3909b42b-de5e-4294-b0d9-1becf0b57a83@6c48a",
+      "displayName": "Buyu_XuanChang_04",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3909b42b-de5e-4294-b0d9-1becf0b57a83"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "3909b42b-de5e-4294-b0d9-1becf0b57a83@6c48a"
+  }
+}

@@ -1,0 +1,202 @@
+
+Buyu_XuanChang_01.png
+size: 1177,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_Apple
+  rotate: false
+  xy: 1055, 175
+  size: 67, 82
+  orig: 68, 83
+  offset: 0, 1
+  index: -1
+1_DiBan
+  rotate: false
+  xy: 2, 8
+  size: 339, 249
+  orig: 340, 249
+  offset: 0, 0
+  index: -1
+1_Fish
+  rotate: true
+  xy: 343, 6
+  size: 251, 268
+  orig: 251, 269
+  offset: 0, 1
+  index: -1
+1_Gold
+  rotate: true
+  xy: 1124, 183
+  size: 74, 51
+  orig: 75, 52
+  offset: 0, 1
+  index: -1
+1_Gold/1_Gold_00
+  rotate: false
+  xy: 967, 7
+  size: 27, 26
+  orig: 75, 52
+  offset: 1, 25
+  index: -1
+1_Gold/1_Gold_01
+  rotate: true
+  xy: 1140, 30
+  size: 36, 35
+  orig: 75, 52
+  offset: 1, 17
+  index: -1
+1_Gold/1_Gold_02
+  rotate: true
+  xy: 1012, 94
+  size: 44, 39
+  orig: 75, 52
+  offset: 1, 13
+  index: -1
+1_Gold/1_Gold_03
+  rotate: false
+  xy: 883, 62
+  size: 50, 43
+  orig: 75, 52
+  offset: 1, 9
+  index: -1
+1_Gold/1_Gold_04
+  rotate: true
+  xy: 888, 3
+  size: 57, 46
+  orig: 75, 52
+  offset: 1, 6
+  index: -1
+1_Gold/1_Gold_05
+  rotate: false
+  xy: 613, 2
+  size: 63, 48
+  orig: 75, 52
+  offset: 1, 4
+  index: -1
+1_Gold/1_Gold_06
+  rotate: false
+  xy: 1055, 123
+  size: 68, 50
+  orig: 75, 52
+  offset: 1, 2
+  index: -1
+1_Gold/1_Gold_07
+  rotate: false
+  xy: 939, 87
+  size: 71, 51
+  orig: 75, 52
+  offset: 2, 1
+  index: -1
+1_Gold/1_Gold_08
+  rotate: true
+  xy: 1125, 113
+  size: 68, 50
+  orig: 75, 52
+  offset: 6, 1
+  index: -1
+1_Gold/1_Gold_09
+  rotate: false
+  xy: 936, 35
+  size: 64, 50
+  orig: 75, 52
+  offset: 11, 0
+  index: -1
+1_Gold/1_Gold_10
+  rotate: false
+  xy: 741, 2
+  size: 59, 48
+  orig: 75, 52
+  offset: 16, 0
+  index: -1
+1_Gold/1_Gold_11
+  rotate: false
+  xy: 1053, 75
+  size: 53, 46
+  orig: 75, 52
+  offset: 22, 0
+  index: -1
+1_Gold/1_Gold_12
+  rotate: false
+  xy: 1108, 68
+  size: 46, 43
+  orig: 75, 52
+  offset: 29, 0
+  index: -1
+1_Gold/1_Gold_13
+  rotate: false
+  xy: 1100, 29
+  size: 38, 37
+  orig: 75, 52
+  offset: 37, 1
+  index: -1
+1_Gold/1_Gold_14
+  rotate: false
+  xy: 936, 4
+  size: 29, 29
+  orig: 75, 52
+  offset: 46, 2
+  index: -1
+1_Guaizhang
+  rotate: false
+  xy: 939, 140
+  size: 114, 117
+  orig: 115, 118
+  offset: 0, 1
+  index: -1
+1_HaiCao
+  rotate: false
+  xy: 613, 52
+  size: 177, 205
+  orig: 196, 216
+  offset: 19, 11
+  index: -1
+1_L_Yanpi
+  rotate: false
+  xy: 1053, 31
+  size: 45, 42
+  orig: 45, 43
+  offset: 0, 1
+  index: -1
+1_R_Yanpi
+  rotate: true
+  xy: 1012, 55
+  size: 37, 39
+  orig: 38, 41
+  offset: 0, 2
+  index: -1
+1_SheTou
+  rotate: false
+  xy: 792, 62
+  size: 89, 43
+  orig: 90, 44
+  offset: 0, 1
+  index: -1
+1_Tang
+  rotate: false
+  xy: 792, 107
+  size: 145, 150
+  orig: 145, 151
+  offset: 0, 1
+  index: -1
+1_ZuiChun
+  rotate: false
+  xy: 802, 3
+  size: 84, 57
+  orig: 84, 58
+  offset: 0, 1
+  index: -1
+1_haixing
+  rotate: false
+  xy: 678, 2
+  size: 61, 48
+  orig: 61, 49
+  offset: 0, 1
+  index: -1
+4_Light_03
+  rotate: true
+  xy: 1002, 20
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1

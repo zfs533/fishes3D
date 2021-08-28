@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "bf6456c9-fe0d-4658-a23c-3a39b1c57f87",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "fish_30": {
+      "ver": "1.0.4",
+      "uuid": "7b10470c-2153-41f5-bd7d-26d32b9d4176",
+      "rawTextureUuid": "bf6456c9-fe0d-4658-a23c-3a39b1c57f87",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 768,
+      "height": 200,
+      "rawWidth": 772,
+      "rawHeight": 204,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "bf6456c9-fe0d-4658-a23c-3a39b1c57f87@6c48a",
+      "displayName": "fish_30",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bf6456c9-fe0d-4658-a23c-3a39b1c57f87"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "bf6456c9-fe0d-4658-a23c-3a39b1c57f87@6c48a"
+  }
+}
